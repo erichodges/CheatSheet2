@@ -12,13 +12,12 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Repo Status
 `$ git status` - __Fill Me Out__
 
-`$ git diff` - __Fill Me Out__
+`$ git diff` - Show changes between working directory and the index (commit folder)
 
 #### Repo History
-`$ git log` - __Fill Me Out__
+`$ git log` - Show log of the commit history
 
-`$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
-
+`$ git log --oneline --decorate --color --graph --all` - Show log of the commit history with each commit on a single line and print out ref name prefixes. Show colored diff and text based graphical representation.
 `$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
