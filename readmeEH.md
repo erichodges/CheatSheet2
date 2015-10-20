@@ -7,10 +7,10 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 ### Essential Git Commands
 
 ####Create a new git repository
-`$ git init` - __Fill Me Out__
+`$ git init` - Create a new, local repository
 
 #### Repo Status
-`$ git status` - __Fill Me Out__
+`$ git status` - Check the status of your current repository and see which files have changed.
 
 `$ git diff` - Show changes between working directory and the index (commit folder)
 
